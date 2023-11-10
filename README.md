@@ -2,6 +2,6 @@
 
 Welcome to Downbot
 
-- [Cronify](./apps/cronify/)
+- [Cronify](./cronify/)
 
 
