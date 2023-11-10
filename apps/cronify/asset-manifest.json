@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/apps/cronify/static/css/main.d12f4a42.css",
-    "main.js": "/apps/cronify/static/js/main.badf1141.js",
+    "main.js": "/apps/cronify/static/js/main.2a4a3392.js",
     "static/js/787.347e4869.chunk.js": "/apps/cronify/static/js/787.347e4869.chunk.js",
     "static/media/fa-solid-900.svg": "/apps/cronify/static/media/fa-solid-900.4eb6043220be660d50c5.svg",
     "static/media/fa-brands-400.svg": "/apps/cronify/static/media/fa-brands-400.c02d7d9389ae7e1b28be.svg",
@@ -28,11 +28,11 @@
     "static/media/fa-regular-400.woff2": "/apps/cronify/static/media/fa-regular-400.73b2218024541ec4e90d.woff2",
     "index.html": "/apps/cronify/index.html",
     "main.d12f4a42.css.map": "/apps/cronify/static/css/main.d12f4a42.css.map",
-    "main.badf1141.js.map": "/apps/cronify/static/js/main.badf1141.js.map",
+    "main.2a4a3392.js.map": "/apps/cronify/static/js/main.2a4a3392.js.map",
     "787.347e4869.chunk.js.map": "/apps/cronify/static/js/787.347e4869.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d12f4a42.css",
-    "static/js/main.badf1141.js"
+    "static/js/main.2a4a3392.js"
   ]
 }
