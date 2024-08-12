@@ -50434,7 +50434,7 @@ ep(a,b){var s=this.a,r=J.bG(s)
 if(b?r.B(s,a):r.v(s,a))this.aC()}}
 A.yn.prototype={
 O(a){var s=null
-return new A.pz(B.Bl,"Flutter Demo",A.a23(s,A.a3V(B.I,s,s,B.Bc),!0),s)}}
+return new A.pz(B.Bl,"Flutwise",A.a23(s,A.a3V(B.I,s,s,B.Bc),!0),s)}}
 A.pN.prototype={
 ah(){return new A.tA()}}
 A.tA.prototype={
@@ -50442,7 +50442,7 @@ ML(){this.aD(new A.Y3(this))},
 O(a){var s=null,r=A.aG(a).ax,q=r.y2
 r=q==null?r.c:q
 this.a.toString
-q=A.a6A("Flutter Demo Home Page",s)
+q=A.a6A("Flutwise",s)
 return new A.qI(new A.nC(q,r,new A.Er(s,s,1/0,56),s),A.IL(A.ach(A.a([B.Jp,A.a6A(""+this.d,A.aG(a).p2.e)],t.nA),B.nG),s,s),A.adi(B.xL,!1,this.gMK(),"Increment"),s)}}
 A.Y3.prototype={
 $0(){++this.a.d},
