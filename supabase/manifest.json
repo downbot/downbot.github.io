@@ -1,11 +1,11 @@
 {
-    "name": "flutterlab",
-    "short_name": "flutterlab",
+    "name": "Pay No Pain",
+    "short_name": "Pay No Pain",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Credit and savings tracking.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
