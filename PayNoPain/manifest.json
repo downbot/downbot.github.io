@@ -1,11 +1,11 @@
 {
-    "name": "payne",
-    "short_name": "payne",
+    "name": "Pay No Pain",
+    "short_name": "Pay No Pain",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#3C7AC0",
+    "theme_color": "#73D9FF",
+    "description": "Credit and savings tracking.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
